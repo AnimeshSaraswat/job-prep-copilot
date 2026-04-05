@@ -133,6 +133,6 @@ const styles = {
   section: { marginBottom: 24 },
   sectionTitle: { fontSize: 16, fontWeight: 600, marginBottom: 8 },
   prepFocus: { background: "#fefce8", padding: 16, borderRadius: 8, fontSize: 14, color: "#713f12" },
-  questionList: { paddingLeft: 20 },
-  questionItem: { fontSize: 14, marginBottom: 10, lineHeight: 1.6, color: "#374151" },
+  questionList: { paddingLeft: 20, color: "#f3f4f6" },
+  questionItem: { fontSize: 14, marginBottom: 10, lineHeight: 1.6, color: "#f3f4f6" },
 };
