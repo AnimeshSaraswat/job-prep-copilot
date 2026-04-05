@@ -53,7 +53,7 @@ API docs at `http://localhost:8000/docs`
 
 ## Deployment
 
-Live at: [your-railway-url]
+Live at: [Job Prep Copilot](https://job-prep-copilot.vercel.app)
 
 ## Roadmap
 
